@@ -1,0 +1,13 @@
+1. Write a Pandas program to create a Pivot table with multiple indexes from a given excel sheet (Salesdata.xlsx). 
+2. Write a Pandas program to create a Pivot table and find the total sale amount region wise, manager wise. 
+3. Write a Pandas program to create a Pivot table and find the total sale amount region wise, manager wise, sales man wise. 
+4. Write a Pandas program to create a Pivot table and find the item wise unit sold. 
+5. Write a Pandas program to create a Pivot table and find the region wise total sale. 
+6. Write a Pandas program to create a Pivot table and find the region wise, item wise unit sold. 
+7. Write a Pandas program to create a Pivot table and count the manager wise sale and mean value of sale amount. 
+8. Write a Pandas program to create a Pivot table and find manager wise, salesman wise total sale and also display the sum of all sale amount at the bottom. 
+9. Write a Pandas program to create a Pivot table and find the total sale amount region wise, manager wise, sales man wise where Manager = "Douglas". 
+10. Write a Pandas program to create a Pivot table and find the region wise Television and Home Theater sold. 
+11. Write a Pandas program to create a Pivot table and find the maximum sale value of the items. 
+12. Write a Pandas program to create a Pivot table and find the minimum sale value of the items. 
+13.Write a Pandas program to create a Pivot table and find the maximum and minimum sale value of the items. 
